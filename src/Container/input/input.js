@@ -2,9 +2,6 @@
 
 // const details vcardDetails() => {
 
-
 // }
-
-
 
 // export default vcardDetails;

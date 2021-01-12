@@ -5,24 +5,23 @@ import Grid from '@material-ui/core/Grid';
 //  import classes from '*.module.css';
 import Paper from '@material-ui/core/Paper';
 import AcUnitIcon from '@material-ui/icons/AcUnit';
-import { AppBar, Container, Toolbar, Typography,  } from '@material-ui/core';
-
+import { AppBar, Container, Toolbar, Typography } from '@material-ui/core';
 
 const useStyles = makeStyles(() => ({
-    TypographyStyles: {
-        flex:1,
-    }
+	TypographyStyles: {
+		flex: 1
+	}
 }));
 
 const Header = () => {
-    const classes = useStyles();
+	const classes = useStyles();
 	return (
-		<AppBar position = "static">
+		<AppBar position="static">
 			<Toolbar>
-            <Typography  className = {classes.TypographyStyles}>
-            <h1> Welcome to our Online store sample page with Material-ui</h1>                 
-            </Typography>
-            <AcUnitIcon /> 
+				<Typography className={classes.TypographyStyles}>
+					<h1> Welcome to our Online store sample page with Material-ui</h1>
+				</Typography>
+				<AcUnitIcon />
 			</Toolbar>
 		</AppBar>
 	);
