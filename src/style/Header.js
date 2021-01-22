@@ -19,7 +19,7 @@ const Header = () => {
 		<AppBar position="static">
 			<Toolbar>
 				<Typography className={classes.TypographyStyles}>
-					<h1> Welcome to our Online store sample page with Material-ui</h1>
+					<h1> Welcome to our sample Online store built with Material-ui</h1>
 				</Typography>
 				<AcUnitIcon />
 			</Toolbar>

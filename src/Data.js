@@ -1,3 +1,5 @@
+// Just sample data from the web
+
 export default [
 	{
 		title: 'Keurig K-Duo',

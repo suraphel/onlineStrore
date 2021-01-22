@@ -10,24 +10,6 @@ import Header from '../style/Header';
 // import Carts from '../Carts'
 import Content from '../Content';
 
-//  making the styling part
-
-// const Buttonz = makeStyles((theme) => ({
-// 	root: {
-// 	  flexGrow: 1,
-// 	},
-// 	paper: {
-// 	  padding: theme.spacing(2),
-// 	  textAlign: 'center',
-// 	  color: theme.palette.text.secondary,
-// 	},
-//   }));
-
-// const Buttonz = makeStyles({
-// 	backGroundcolor: "blue",
-// 	textAlign: "center",
-// })
-
 const Buttonz = () => {
 	return (
 		<Grid container direction="column">
@@ -43,8 +25,6 @@ const Buttonz = () => {
 					<Grid item xs={0} sm={2} />
 				</Grid>
 			</Grid>
-
-			{/* <Button variant="contained" color="primary">Show QR!</Button> */}
 		</Grid>
 	);
 };

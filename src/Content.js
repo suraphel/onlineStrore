@@ -1,4 +1,4 @@
-// The content part of the site
+// The layout part of the site
 
 import React from 'react';
 import LocalCarts from './LocalCarts';
