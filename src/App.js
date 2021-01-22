@@ -19,21 +19,7 @@ class App extends Component {
 					<Buttonz />
 				</div>
 			);
-		} else
-			return (
-				<div className="App">
-					{/* Is this working?
-					<ul>
-						{items.map((item) => (
-							<li key={item.id}>
-								Name: {item.name} , email : {item.email}, username: {' '}
-								{item.username}
-								street:{item.suite}
-							</li>
-						))};
-					</ul> */}
-				</div>
-			);
+		} else return <div className="App" />;
 	}
 }
 
