@@ -15,7 +15,7 @@ const Content = () => {
 	};
 
 	return (
-		<Grid container spacing={2}>
+		<Grid container spacing={3}>
 			{Data.map((DataObject) => getData(DataObject))}
 		</Grid>
 	);

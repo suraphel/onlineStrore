@@ -10,12 +10,14 @@ import CardContent from '@material-ui/core/CardContent';
 import CardHeader from '@material-ui/core/CardHeader';
 import Button from '@material-ui/core/Button';
 import Typography from '@material-ui/core/Typography';
-import { AddShoppingCartSharp } from '@material-ui/icons';
+import { AddShoppingCartSharp, Email } from '@material-ui/icons';
 import ShareIcon from '@material-ui/icons/Share';
 import CardMedia from '@material-ui/core/CardMedia';
 
 const LocalCarts = (props) => {
 	const { avatarSrc, avatarUrl, title, subtitle, price, imgSrc, imageUrl, description } = props;
+
+
 
 	return (
 		<Card>
@@ -23,13 +25,13 @@ const LocalCarts = (props) => {
 				avatar={<Avatar Src={avatarUrl} />}
 				action={
 					<IconButton aria-label="settings">
-						<ShareIcon />
+						<ShareIcon />					
 					</IconButton>
 				}
 				title={title}
-				subheader={subtitle}			
+				 subheader={subtitle}
 			/>
-			<CardMedia style={{ height: '350px' }} image={imageUrl} />
+			<CardMedia style={{ height: '400px', width: '400px' }} image={imageUrl} />
 
 			<CardContent>
 				<Typography>{description}</Typography>
@@ -37,7 +39,7 @@ const LocalCarts = (props) => {
 			<CardActions>
 				<Button size="small">Buy Now</Button>
 				<Button size="small">Add to cart</Button>
-				 price={price}
+					price={price}
 			</CardActions>
 		</Card>
 	);
