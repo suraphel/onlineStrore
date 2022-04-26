@@ -7,7 +7,7 @@ export default [
 		title: 'Abesha lebiss',
 		price: '$149.99',
 		description:
-		' coffee and k-cup pods. Multiple brew sizes: brew an 8, 10, or 12-cup carafe and an 237, 296, or 355ml (8, 10, or 12 oz. ) cup ',
+		' Use both ground coffee and k-cup pods. Multiple brew sizes: brew an 8, 10, or 12-cup carafe and an 237, 296, or 355ml (8, 10, or 12 oz. ) cup ',
 		avatarUrl: 'https://i.pinimg.com/originals/b8/5f/02/b85f0261b6339a8788c07bddfa879aec.jpg',
 		imageUrl: 'https://i.pinimg.com/originals/b8/5f/02/b85f0261b6339a8788c07bddfa879aec.jpg'
 		//  'https://images-na.ssl-images-amazon.com/images/I/61-KUPluVYL._AC_SL1500_.jpg'
