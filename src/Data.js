@@ -16,7 +16,7 @@ export default [
   },
 
   {
-    title: "KRUPS Electric Spice",
+    title: "Harar habesha dress",
     price: "$19.99",
     description:
       "Since the 19th century, both men and women have worn a shamma, the long cotton robe that doubles as a body and head cover.",
@@ -28,7 +28,7 @@ export default [
   },
 
   {
-    title: "Hamilton Beach ",
+    title: "Rahwa habesha dress ",
     price: "$89.99",
     description:
       " Men traditionally wear white cotton pants underneath the shamma, while women wear colorful dresses that reach to their ankles [source: Selamta]. ",
@@ -39,7 +39,7 @@ export default [
     //'https://i.etsystatic.com/22655225/r/il/76800c/2562125365/il_570xN.2562125365_jvue.jpg'
   },
   {
-    title: "Secura French Press",
+    title: "Harar habesha dress",
     price: "$36.48",
     description:
       " What is a Shamma clothing? Image result A lightweight shawl worn by women over a kemis (dress) sometimes had a red border indicating rank and status. .",
@@ -50,7 +50,7 @@ export default [
     //'https://images-na.ssl-images-amazon.com/images/I/61XRMmXVwQL._AC_SL1500_.jpg'
   },
   {
-    title: "Cafe Du Chateau French Press",
+    title: "Harar habesha dress",
     price: "$32.95",
     description:
       "The shamma, made in two heavier weights, was worn by men, used as a blanket and even as shrouds for the dead. The manner of wearing the shamma could communicate mood, attitude and intention ",
@@ -61,7 +61,7 @@ export default [
     //'https://images-na.ssl-images-amazon.com/images/I/81luUhz7ZlL._AC_SL1500_.jpg'
   },
   {
-    title: "LIVINGbasics Single Serve Coffee Maker ",
+    title: "Harar habesha dress ",
     price: "$37.99",
     description:
       "The shamma, made in two heavier weights, was worn by men, used as a blanket and even as shrouds for the dead. The manner of wearing the shamma could communicate mood, attitude and intention ",
@@ -73,7 +73,7 @@ export default [
   },
 
   {
-    title: "Keurig K-Duo",
+    title: "Harar habesha dress",
     price: "$149.99",
     description:
       "The ankle length dress is usually worn by Ethiopian and Eritrean women at formal events, holidays and invitations.  ",
@@ -84,7 +84,7 @@ export default [
     // 'https://images-na.ssl-images-amazon.com/images/I/61-KUPluVYL._AC_SL1500_.jpg'
   },
   {
-    title: "KRUPS Electric Spice",
+    title: "Wag habesha dress",
     price: "$19.99",
     description:
       "The ankle length dress is usually worn by Ethiopian and Eritrean women at formal events, holidays and invitations. ",
@@ -94,7 +94,7 @@ export default [
       "https://images-na.ssl-images-amazon.com/images/I/81TmTtnG5cL._AC_SL1500_.jpg",
   },
   {
-    title: "Hamilton Beach Flexbrew",
+    title: " Gamo habesha dress",
     price: "$89.99",
     description:
       "It is made of cotton fabric, and typically comes in white, grey or beige shades",
@@ -104,7 +104,7 @@ export default [
       "https://images-na.ssl-images-amazon.com/images/I/818rz3CIaFL._AC_SL1500_.jpg",
   },
   {
-    title: "Secura French Press",
+    title: "Wag habesha dress",
     price: "$36.48",
     description:
       " It is made of cotton fabric, and typically comes in white, grey or beige shades",
@@ -114,7 +114,7 @@ export default [
       "https://images-na.ssl-images-amazon.com/images/I/61XRMmXVwQL._AC_SL1500_.jpg",
   },
   {
-    title: "Cafe Du Chateau French Press",
+    title: "Sore habesha dress",
     price: "$32.95",
     description:
       "But it comes in many forms nowadays. It is made of cotton fabric, and typically comes in white, grey or beige shades. Many women also wrap a shawl called a netela around the formal dress.",
@@ -125,7 +125,7 @@ export default [
     //'https://images-na.ssl-images-amazon.com/images/I/81luUhz7ZlL._AC_SL1500_.jpg'
   },
   {
-    title: "LIVINGbasics Single Serve Coffee Maker ",
+    title: "Meki habesha dress",
     price: "$37.99",
     description:
       "It is made of cotton fabric, and typically comes in white, grey or beige shades",

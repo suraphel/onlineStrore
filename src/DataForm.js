@@ -11,7 +11,6 @@ function DataForm() {
       <form onSubmit={FormHandler}>
         <label>Title</label>
         <input type="text" placeholder="title" />
-
         <button type="submit"> Add Item </button>
       </form>
     </div>
