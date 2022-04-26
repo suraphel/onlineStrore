@@ -2,7 +2,6 @@
 // this should be in form format
 
 export default [
-<<<<<<< HEAD
   {
     title: "Abesha lebiss",
     price: "$149.99",
@@ -15,18 +14,6 @@ export default [
     //  'https://images-na.ssl-images-amazon.com/images/I/61-KUPluVYL._AC_SL1500_.jpg'
     //https://upload.wikimedia.org/wikipedia/commons/e/e0/Keurig_Logo.png
   },
-=======
-	{
-		title: 'Abesha lebiss',
-		price: '$149.99',
-		description:
-		' Use both ground coffee and k-cup pods. Multiple brew sizes: brew an 8, 10, or 12-cup carafe and an 237, 296, or 355ml (8, 10, or 12 oz. ) cup ',
-		avatarUrl: 'https://i.pinimg.com/originals/b8/5f/02/b85f0261b6339a8788c07bddfa879aec.jpg',
-		imageUrl: 'https://i.pinimg.com/originals/b8/5f/02/b85f0261b6339a8788c07bddfa879aec.jpg'
-		//  'https://images-na.ssl-images-amazon.com/images/I/61-KUPluVYL._AC_SL1500_.jpg'
-		//https://upload.wikimedia.org/wikipedia/commons/e/e0/Keurig_Logo.png
-	},
->>>>>>> 54128616a300f0c545c7f09bfa40814e81d4efa1
 
   {
     title: "KRUPS Electric Spice",
