@@ -2,6 +2,8 @@ import "./App.css";
 import React, { Component } from "react";
 import Buttonz from "./style/Buttonz";
 import Nav from "./style/Nav";
+import AddProduct from "./Components/AddProduct";
+import Product from "./Components/Product";
 
 class App extends Component {
   constructor(props) {
@@ -11,13 +13,16 @@ class App extends Component {
       isLoaded: false,
     };
   }
+
   render() {
     var { isLoaded, items } = this.state; // accessing the above variables.
     if (!isLoaded) {
       return (
         <div>
           <Buttonz />
-          {/* <Nav /> */}
+          <AddProduct />
+          {/* <Product /> */}
+          <Nav />
         </div>
       );
     } else return <div className="App" />;

@@ -5,8 +5,9 @@ import BottomNavigationAction from "@material-ui/core/BottomNavigationAction";
 import RestoreIcon from "@material-ui/icons/Restore";
 import FavoriteIcon from "@material-ui/icons/Favorite";
 import LocationOnIcon from "@material-ui/icons/LocationOn";
-
-import DataForm from "../DataForm";
+import Add from "@material-ui/icons/Add";
+import AddProductForm from "../Components/AddProductForm";
+import { Link } from "react-router-dom";
 
 const useStyles = makeStyles({
   root: {
@@ -30,7 +31,16 @@ const Nav = () => {
       <BottomNavigationAction label="Recents" icon={<RestoreIcon />} />
       <BottomNavigationAction label="Favorites" icon={<FavoriteIcon />} />
       <BottomNavigationAction label="Nearby" icon={<LocationOnIcon />} />
-      <BottomNavigationAction label="Add Item" icon={DataForm} />
+      <BottomNavigationAction label="Add Item" icon={<Add />} />
+
+      {/* <BottomNavigationAction
+        component={Link}
+        to="/AddProductForm"
+        label="AddProductForm"
+        value="AddProductForm"
+        icon={<Add />}
+        className={classes.content}
+      /> */}
     </BottomNavigation>
   );
 };

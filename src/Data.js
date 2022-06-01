@@ -3,8 +3,24 @@
 
 export default [
   {
+    title: "name ",
+    price: "$100",
+  },
+  {
     title: "Abesha lebiss",
     price: "$149.99",
+    description:
+      "Habesha kemis is the traditional attire of Habesha women. The ankle length dress is usually worn by Ethiopian and Eritrean women at formal events, holidays and invitations. But it comes in many forms nowadays. ",
+    avatarUrl:
+      "https://i.pinimg.com/originals/b8/5f/02/b85f0261b6339a8788c07bddfa879aec.jpg",
+    imageUrl:
+      "https://i.pinimg.com/originals/b8/5f/02/b85f0261b6339a8788c07bddfa879aec.jpg",
+    //  'https://images-na.ssl-images-amazon.com/images/I/61-KUPluVYL._AC_SL1500_.jpg'
+    //https://upload.wikimedia.org/wikipedia/commons/e/e0/Keurig_Logo.png
+  },
+  {
+    title: "Abesha lebiss",
+    price: "$1409.99",
     description:
       "Habesha kemis is the traditional attire of Habesha women. The ankle length dress is usually worn by Ethiopian and Eritrean women at formal events, holidays and invitations. But it comes in many forms nowadays. ",
     avatarUrl:
@@ -121,8 +137,7 @@ export default [
     avatarUrl:
       "https://images-na.ssl-images-amazon.com/images/I/81BdxpiRtCL._AC_SL1500_.jpg",
     imageUrl:
-      "https://media-exp1.licdn.com/dms/image/C4D12AQEAzW2FiA69sw/article-cover_image-shrink_720_1280/0/1581863798945?e=1631750400&v=beta&t=CfvsQhJ5wzGqmGPCOqT_QfHZ9kLJQ2JPTkTbJ8pzR5w",
-    //'https://images-na.ssl-images-amazon.com/images/I/81luUhz7ZlL._AC_SL1500_.jpg'
+      "https://images-na.ssl-images-amazon.com/images/I/81luUhz7ZlL._AC_SL1500_.jpg",
   },
   {
     title: "Meki habesha dress",
